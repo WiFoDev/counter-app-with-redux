@@ -13,18 +13,6 @@ section{
   justify-content: center;
 }
 
-.card {
-  margin-top: 15vh;
-  padding: 2rem;
-  width: 55%;
-  background-color: white;
-  border-radius: 1rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4rem
-}
-
 .title, .counter{
   text-transform: uppercase;
   font-weight: 700;
