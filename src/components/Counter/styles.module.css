@@ -13,11 +13,16 @@
   color: var(--primary-color);
 }
 
-.toggle__button{
+.button{
   color: white;
   font-size: 1.6rem;
   background-color: var(--primary-color);
   border-radius: 0.7rem;
   padding: 1rem 2.5rem;
   border: none;
+}
+
+.button__container{
+  display: flex;
+  gap: 1rem;
 }
